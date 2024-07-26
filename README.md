@@ -11,6 +11,15 @@ Packaging : Poetry (추가 패키지: hypercorn, aioquic, h3, fastapi)
 <br />
 <br />
 
+<h2>Overall Architecture</h2>	
+
+![WSGI/ASGI Architecture.](https://derlin.github.io/introduction-to-fastapi-and-celery/assets/01-wsgi.excalidraw.png)
+
+(출처: https://derlin.github.io/introduction-to-fastapi-and-celery/02-fastapi/)
+
+<br />
+<br />
+
 <h2>실행 방법</h2>	
 
 프로젝트를 다운로드 함
