@@ -52,7 +52,7 @@ Chrome browser로 서버에 접속함<br />
 > HTTP/3
 >> Chrome browser를 HTTP/3 모드로 강제 실햄함<br />
 >>> macOS 경우:
->>>> sudo /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --enable-quic --allow-insecure-localhost --origin-to-force-quic-on=127.0.0.1:4433 --ignore-certificate-errors-spki-list="Vy/mwFlqWXlxva7JH2xXR0bShco74LOb7xG1dFlZlrA=" <br />
+>>>> sudo /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --enable-quic --allow-insecure-localhost --origin-to-force-quic-on=127.0.0.1:4433 --ignore-certificate-errors-spki-list="Vy/mwFlqWXlxva7JH2xXR0bShco74LOb7xG1dFlZlrA=" <br /><br />
 >>>> https://127.0.0.1:4433/ 
 
 화면 위쪽의 “Please wait, program is starting …” 문구가 다음처럼 바뀌기를 기다림<br />
