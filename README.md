@@ -6,7 +6,7 @@ Client : Web Browser (PyScript : Python in HTML, Pico.css)
 
 Networking : HTTP/1.1, HTTP/2, HTTP/3 
 
-Packaging : Poetry (추가 패키지: hypercorn, aioquic, h3, fastapi)
+Packaging : Poetry (추가 패키지: hypercorn, aioquic, h3, fastapi)  
 
 <br />
 <br />
