@@ -34,8 +34,8 @@ src/server.py를 실행함<br />
 
 > HTTP/1.1
 >> poetry run hypercorn server_app:app
-> HTTP/2
 
+> HTTP/2
 >> poetry run hypercorn --certfile cert/localhost.crt --keyfile cert/localhost.key --bind localhost:8000 server_app:app
 
 > HTTP/2 & HTTP/3
