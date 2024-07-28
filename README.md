@@ -22,6 +22,17 @@ Packaging : Poetry (추가 패키지: hypercorn, aioquic, h3, fastapi)
 
 <h2>실행 방법</h2>	
 
+> NOTE
+
+>> macOS & Linux : 제한 사항 없음
+
+>> MS Windows
+
+>>> Server : WSL2 사용을 권장함
+>>> Client
+>>>> HTTP/1.1 & HTTP/2는 Windows에서 실행한 Chrome 브라우저(chrome.exe)에서 아래에서 제시한 URL로 WSL2에서 실행중인 서버로 접속함
+>>>> HTTP/3는 WSL2에 Chrome 브라우저를 설치한 후, WSL2의 Chrome 브라우저에서 WSL2에서 실행중인 서버로 접속함
+
 프로젝트를 다운로드 함
 
 폴더안에서 poetry shell를 실행함<br />
