@@ -29,8 +29,8 @@ Packaging : Poetry (추가 패키지: hypercorn, aioquic, h3, fastapi)
 >>> Client : <br />
 >>>> HTTP/1.1 & HTTP/2 : Windows에서 Chrome 브라우저(chrome.exe)를 실행후, WSL2의 서버로 접속함<br />
 >>>> HTTP/3 : WSL2에서 Chrome 브라우저 실행후, WSL2의 서버로 접속함<br />
->>>> Chrome 브라우저를 WSL2에 설치하고 실행하는 방법은 다음을 참조함<br />
->>>> https://learn.microsoft.com/ko-kr/windows/wsl/tutorials/gui-apps
+>>>>> Chrome 브라우저를 WSL2에 설치하고 실행하는 방법은 다음을 참조함<br />
+>>>>> https://learn.microsoft.com/ko-kr/windows/wsl/tutorials/gui-apps
 
 프로젝트를 다운로드 함
 
