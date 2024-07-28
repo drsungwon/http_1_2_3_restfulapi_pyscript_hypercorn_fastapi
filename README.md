@@ -24,7 +24,7 @@ Packaging : Poetry (추가 패키지: hypercorn, aioquic, h3, fastapi)
 
 > NOTE<br />
 >> macOS & Linux : 제한 사항 없음<br />
->> MS Windows<br />
+>> MS Windows : <br />
 >>> Server : WSL2 사용을 권장함<br />
 >>> Client : <br />
 >>>> HTTP/1.1 & HTTP/2 : Windows에서 Chrome 브라우저(chrome.exe)를 실행후, WSL2의 서버로 접속함<br />
